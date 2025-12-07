@@ -2,6 +2,8 @@
 
 Download stuff from Instagram
 
+Feature request or there's an issue the wiki doesn't cover? Join the Discord [here](https://discord.gg/yzNM7CPn4s)
+
 ## Installation
 
 To build from source:
